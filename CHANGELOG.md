@@ -15,35 +15,38 @@ Add subsequent changes that you make in this section.
 3. **CGRect**
    - `var area` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/366) by *Khalian*
 
-3. **Date**
+4. **Data**
+   - `var attributedString` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/379) by *Khalian*
+
+5. **Date**
    - `var isFuture` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/343) by *Khalian*
    - `var isPast` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/343) by *Khalian*
    - `var era` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/374) by *Khalian*
    - `var iso8601` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/375) by *Khalian*
 
-4. **Double**
+6. **Double**
    - `var abs` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/365) by *Khalian*
 
-5. **Float**
+7. **Float**
    - `static func random() -> Float` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/351) by *Khalian*
    - `static func random(within: Range<Float>) -> Float` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/351) by *Khalian*
 
-6. **Int**
+8. **Int**
    - `var digitArray` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/373) by *Khalian*
    - `static func random(within: Range<Int>) -> Int` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/360) by *Khalian*
 
-7. **String**
+9. **String**
    - `func urlDecoded() -> String` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/358) by *Khalian*
    - `mutating func urlDecode() -> String` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/358) by *Khalian*
 
-8. **UInt**
+10. **UInt**
    - `static gcd(_ firstNum:UInt, _ secondNum:UInt) -> UInt` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/347) by *Khalian*
    - `static lcm(_ firstNum:UInt, _ secondNum:UInt) -> UInt` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/347)by *Khalian*
 
-9. **UIEdgeInsets**
+11. **UIEdgeInsets**
    - `init(inset: CGFloat)` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/368) by *furuyan*
 
-10. **UILabel**
+12. **UILabel**
    - `set(text _text: String?, duration: TimeInterval)` in [[PR]](https://github.com/goktugyil/EZSwiftExtensions/pull/340) by *vilapuigvila*
 
 ## [Version 1.8] 
